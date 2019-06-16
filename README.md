@@ -1,1 +1,1 @@
-# Chenjie's Repository
+This repo is created for a small practice
